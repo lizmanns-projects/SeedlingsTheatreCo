@@ -1,0 +1,73 @@
+/* My Custom Css */
+
+body {
+    background-color: #0c394d;
+    }
+
+.img{
+     
+}
+
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+ }
+    
+p {
+
+font-family: 'Open Sans', sans-serif;
+color: white;
+padding: 15px;
+    }
+
+
+.container-fluid{
+   padding-left: 300px;
+}  
+    
+.row {
+    height: 200px;
+    margin-top:0px;
+  
+}
+
+.col{
+    width: 822px;
+    height:125px;
+    margin-top:597px;
+  
+
+}
+
+.col-2{
+    width:440px;
+    height:250px;
+    margin-top:473px;
+  
+}
+    
+.p-2 {
+    width: 822px;
+    margin-top:800px;
+    height: 100px; 
+    color: #51706a;
+     }
+
+    
+#footer{
+    background-color: #51706a;
+    margin-top:497px;
+    height: 75px;
+}
+
+p {
+   padding-top: 35px; 
+}
+
+p2{
+    
+    padding-left: 90px;
+
+}
